@@ -1,0 +1,10 @@
+html {
+    height: 100%;
+}
+
+body {
+    /* background-image: linear-gradient(#ffffff, #ff7070); */
+    background-image: url("../images/bg1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
